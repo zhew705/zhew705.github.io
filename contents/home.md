@@ -1,8 +1,9 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![zhew705](https://img.shields.io/badge/zhew705-github-blue)](https://github.com/zhew705)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University./
+He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+
 了解更多：www.jjsger.top
 
 #### Contact
